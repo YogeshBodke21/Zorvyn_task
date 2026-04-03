@@ -28,8 +28,8 @@ This application has three main roles with distinct access levels:
 
 ## Technologies Used
 
-- Python 3.x
-- Django 6.x
+- Python 
+- Django and DRF
 - SQLite (default Django database)
 - Django ORM for database management
 - unittest (via Django TestCase) for testing
