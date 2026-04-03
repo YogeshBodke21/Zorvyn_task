@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+
+*.pyc
+*.pyo
+
+# Virtual environment
+env/
+
+
+# Django
+*.log
+*.pot
+*.pyc
+*.pyo
+
+
+
+# Django migrations
+*/migrations/*.pyc
+*/migrations/*.py
+*/migrations/__pycache__/
+!*/migrations/__init__.py
+
+
+
+
+
+# Environment variables
+.env
